@@ -33,6 +33,6 @@ public class Main {
         System.out.println("O primeiro nome é:" + nomes[0]);
 
         double[] valores = {5.5,10.9,99,75};
-
+oi
     }
 }
